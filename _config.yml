@@ -1,0 +1,28 @@
+name: testate
+favicon: null
+layout_spectrum: 0.9613660671748221
+typography_spectrum: 0.4145942097529769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.16530826594680548
+  lightness: 0.44533831160515547
+  saturation: 0.3049732868093997
+  rhythmicContrast: 0.5902371471747756
+purpose: []
